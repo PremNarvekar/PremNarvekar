@@ -91,7 +91,13 @@
 
 ---
 
-### 🌐 Let’s Sync
+---
+
+### ⚡ Plug Into My Vibe
+
+> Dive into my world — where code, content, and chaos meet creativity.  
+> Whether you're vibing with builds, beats, or banter —  
+> **let’s stay in sync.**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prem-narvekar-80925a331/" target="_blank">
@@ -103,8 +109,12 @@
   <a href="https://instagram.com/premnarvekar9" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram" />
   </a>
+  <a href="https://youtube.com/@premnarvekar" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube" />
+  </a>
 </p>
 
+---
 ---
 
 ### 🔥 Final Boss Level
