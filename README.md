@@ -39,42 +39,80 @@
 
 ## 📅 Weekly Focus Radar
 
-```txt
-🌐 Tech Obsession Levels:
-> ⚡ JavaScript Insanity       ███████████████████████ 96%
-> 🎨 CSS Shenanigans           █████████████░░░░░░░░░░ 74%
-> 🏗 HTML Sculpting            ████████████░░░░░░░░░░░ 63%
-> 🐍 Python Magic              ███████░░░░░░░░░░░░░░░░ 42%
-> 🤯 Debugging Life w/ Music   █░░░░░░░░░░░░░░░░░░░░░░ 8%
+### ⚙️ Tech Obsession Meter
 
-🎭 Fun Glitch: My brain debugs 10x faster when Valorant is paused and coffee is hot ☕🎮
+```yaml
+🌐 JavaScript Jutsu        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 96%
+🎨 CSS Chaos Architect     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ 74%
+🏗️ HTML Temple Builder     ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ 63%
+🐍 Python Sorcerer         ▓▓▓▓▓▓░░░░░░░░░░░░░░ 42%
+🎧 Debug Dances w/ Beats   ▓░░░░░░░░░░░░░░░░░░░ 8%
+```
 
-🧠 Achievements
+🎭 **Fun Glitch**: My brain debugs 10x faster when **Valorant is paused**, coffee's hot, and the Wi-Fi decides to behave. 
+☕️ + 🎮 + 📶 = 🧠💥 Maximum CPU frequency unlocked!
 
-[⏳ Booting greatness... ██████████████░░░░░░░░░░░░░░░ 52% ⚙️ Initiating creative subroutines...]
+---
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=premnarvekar&theme=highcontrast&hide_border=true" /> </p>
+### 🏆 Achievements Panel
 
+```bash
+🧠 Booting greatness...
+[████████████████░░░░░░░░] 52%
+🔁 Initiating wild innovation mode...
+```
 
-📊 GitHub Stats & Languages
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=premnarvekar&show_icons=true&theme=radical&hide_border=true" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premnarvekar&layout=compact&theme=radical&hide_border=true" /> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=premnarvekar&theme=highcontrast&hide_border=true" />
+</p>
 
+---
 
-⚽ More Than Code
-<p align="center"> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="280" /> </p>
-🎮 Hardcore gamer — Valorant, racing, and mystery quests 🎮
+### 📊 GitHub Fuel Station
 
-🏋️ Sport lover — whether it's running, cricket, or footwork drills
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=premnarvekar&show_icons=true&theme=radical&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premnarvekar&layout=compact&theme=radical&hide_border=true" />
+</p>
 
-💫 I live for high-performance — in code and competition
+---
 
-🧘 Chill mode includes music-fueled debugging and laughing at console.log typos
+### ⚽ More Than Code Mode
 
-🌐 Let's Connect
-<p align="center"> <a href="https://www.linkedin.com/in/premnarvekar" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /> </a> <a href="https://x.com/premnarvekar" target="_blank"> <img src="https://img.shields.io/badge/-X-black?style=for-the-badge&logo=x" /> </a> <a href="https://instagram.com/premnarvekar9" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram" /> </a> </p>
-🚀 Fuelled by caffeine, driven by code. My universe is crafted with pixels, passion, and infinite curiosity. 💻✨
-vbnet
-Copy code
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="280" />
+</p>
+
+🎮 Gamer fuel: **Valorant**, racing circuits, and mystery quests  
+🏃‍♂️ Sports mode: Running, cricket, footwork battles  
+🧘 Debug Zen: Vibing with music & typo hunting in `console.log("lol")`  
+💫 Code is my dojo, competition is my catalyst
+
+---
+
+### 🌐 Let’s Sync
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prem-narvekar-80925a331/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://x.com/PremNarvekar" target="_blank">
+    <img src="https://img.shields.io/badge/-X-black?style=for-the-badge&logo=x" />
+  </a>
+  <a href="https://instagram.com/premnarvekar9" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram" />
+  </a>
+</p>
+
+---
+
+### 🔥 Final Boss Level
+
+> 💻 Fueled by curiosity, ignited by caffeine —  
+> I craft my reality with code, courage, and creativity.  
+> This is not just a profile...  
+> **It's my multiverse in motion.** 🌌⚒️
 
 
 
