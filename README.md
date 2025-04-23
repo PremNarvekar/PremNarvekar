@@ -107,7 +107,7 @@
   <a href="https://instagram.com/premnarvekar9" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram" />
   </a>
-  <a href="https://youtube.com/@premnarvekar" target="_blank">
+  <a href="https://youtube.com/@prem.narvekar" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube" />
   </a>
 </p>
