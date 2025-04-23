@@ -20,18 +20,20 @@
 
 > *I write scalable, expressive code using tools from the future.*
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=ruby)
-![AI](https://img.shields.io/badge/-AI-grey?style=flat-square&logo=openai)
-![ML](https://img.shields.io/badge/-Machine%20Learning-orange?style=flat-square&logo=tensorflow)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript" />
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=ruby" />
+  <img src="https://img.shields.io/badge/-AI-grey?style=flat-square&logo=openai" />
+  <img src="https://img.shields.io/badge/-Machine%20Learning-orange?style=flat-square&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb" />
+  <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" />
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3" />
+</p>
 
 ---
 
@@ -44,61 +46,36 @@
 > 🏗 HTML Sculpting            ████████████░░░░░░░░░░░ 63%
 > 🐍 Python Magic              ███████░░░░░░░░░░░░░░░░ 42%
 > 🤯 Debugging Life w/ Music   █░░░░░░░░░░░░░░░░░░░░░░ 8%
-```
-> 🎭 Fun Glitch: My brain debugs 10x faster when Valorant is paused and coffee is hot ☕🎮
 
----
+🎭 Fun Glitch: My brain debugs 10x faster when Valorant is paused and coffee is hot ☕🎮
 
-## 🧠 Achievements
+🧠 Achievements
 
-```txt
 [⏳ Booting greatness... ██████████████░░░░░░░░░░░░░░░ 52% ⚙️ Initiating creative subroutines...]
-```
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=premnarvekar&theme=highcontrast&hide_border=true" />
-</p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=premnarvekar&theme=highcontrast&hide_border=true" /> </p>
 
----
 
-## 📊 GitHub Stats & Languages
+📊 GitHub Stats & Languages
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=premnarvekar&show_icons=true&theme=radical&hide_border=true" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premnarvekar&layout=compact&theme=radical&hide_border=true" /> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=premnarvekar&show_icons=true&theme=radical&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premnarvekar&layout=compact&theme=radical&hide_border=true" />
-</p>
 
----
+⚽ More Than Code
+<p align="center"> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="280" /> </p>
+🎮 Hardcore gamer — Valorant, racing, and mystery quests 🎮
 
-## ⚽ More Than Code
+🏋️ Sport lover — whether it's running, cricket, or footwork drills
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="280" />
-</p>
+💫 I live for high-performance — in code and competition
 
-- 🎮 Hardcore gamer — Valorant, racing, and mystery quests 🎮
-- 🏋️ Sport lover — whether it's running, cricket, or footwork drills
-- 💫 I live for high-performance — in code and competition
-- 🧘 Chill mode includes music-fueled debugging and laughing at console.log typos
+🧘 Chill mode includes music-fueled debugging and laughing at console.log typos
 
----
+🌐 Let's Connect
+<p align="center"> <a href="https://www.linkedin.com/in/premnarvekar" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /> </a> <a href="https://x.com/premnarvekar" target="_blank"> <img src="https://img.shields.io/badge/-X-black?style=for-the-badge&logo=x" /> </a> <a href="https://instagram.com/premnarvekar9" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram" /> </a> </p>
+🚀 Fuelled by caffeine, driven by code. My universe is crafted with pixels, passion, and infinite curiosity. 💻✨
+vbnet
+Copy code
 
-## 🌐 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/premnarvekar" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://x.com/premnarvekar" target="_blank">
-    <img src="https://img.shields.io/badge/-X-black?style=for-the-badge&logo=x" />
-  </a>
-  <a href="https://instagram.com/premnarvekar9" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram" />
-  </a>
-</p>
 
----
-
-## 🚀 Fuelled by caffeine, driven by code. My universe is crafted with pixels, passion, and infinite curiosity. 💻✨
 
