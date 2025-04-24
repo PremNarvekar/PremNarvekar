@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Prem Narvekar</h1>
-<h3 align="center">Creative Full-Stack Dev | Tech Explorer | Sport Lover | Hardcore Gamer</h3>
+<h3 align="center">Passionate Full-Stack Developer | Emerging Tech Enthusiast | Creative Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Turning+Ideas+into+Code.;From+Pixels+to+Products.;Code.+Create.+Repeat.🚀" alt="Typing SVG" />
