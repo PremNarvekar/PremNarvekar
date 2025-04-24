@@ -64,7 +64,9 @@
 ```
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=premnarvekar&theme=highcontrast&hide_border=true" />
+  <a href="https://github.com/premnarvekar">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=premnarvekar&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
 </p>
 
 ---
