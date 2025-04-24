@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/-AI-grey?style=flat-square&logo=openai" />
   <img src="https://img.shields.io/badge/-Machine%20Learning-orange?style=flat-square&logo=tensorflow" />
   <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb" />
+  <img src="https://img.shields.io/badge/-Express.js-grey?style=flat-square&logo=express" />
   <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" />
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5" />
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3" />
