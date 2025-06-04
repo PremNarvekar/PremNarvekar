@@ -58,7 +58,10 @@
 🎮 Gaming: Reflex boosters, tactical shooters, and competitive thinking <br>
 
 
-🌐 Let’s Connect
+---
+
+## 🌐 Let’s Connect 
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prem-narvekar-80925a331/" target="_blank">
@@ -74,6 +77,7 @@
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
+
 
 ## 🚀 Final Phase: In Motion
 
