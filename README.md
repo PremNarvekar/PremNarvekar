@@ -1,4 +1,5 @@
-# 🚀 Full-Stack MERN Developer | ⚡ AI Enthusiast | 🎮 Gamer
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F7004A&center=true&vCenter=true&width=800&lines=🚀+Full-Stack+MERN+Developer;🎮+Gamer;☕+Caffeine+Fueled+Fast+Coder)](https://git.io/typing-svg)
 
 💻 I’m a **Full-Stack Developer** specializing in the **MERN Stack** (MongoDB, Express.js, React, Node.js) with a knack for **AI-powered solutions**.  
 ⚡ Fast, clean, and caffeine-fueled — I thrive on building modern apps with **sleek UI/UX** and **efficient code**.  
