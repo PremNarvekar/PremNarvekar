@@ -1,12 +1,3 @@
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F7004A&center=true&vCenter=true&width=800&lines=🚀+Full-Stack+MERN+Developer;🎮+Gamer;☕+Caffeine+Fueled+Fast+Coder)](https://git.io/typing-svg)
-
-💻 I’m a **Full-Stack Developer** specializing in the **MERN Stack** (MongoDB, Express.js, React, Node.js) with a knack for **AI-powered solutions**.  
-⚡ Fast, clean, and caffeine-fueled — I thrive on building modern apps with **sleek UI/UX** and **efficient code**.  
-🎮 Outside of coding, I bring the same focus and competitiveness from gaming into development.
-
----
-
 ## 🛠️ Tech Stack
 - **Frontend:** React, Next.js, Tailwind CSS, GSAP
 - **Backend:** Node.js, Express.js
@@ -18,11 +9,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PremNarvekar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PremNarvekar&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=PremNarvekar&theme=radical&hide_border=true)
-
 ---
 
 ## 🌐 Connect With Me
@@ -32,4 +18,3 @@
 
 ---
 
-💡 _“Code hard, play harder, drink coffee, repeat.”_
